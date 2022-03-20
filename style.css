@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(61, 63, 65);
+    color: whitesmoke;
+}
+
+
+.content {
+    padding: 3%;
+}
+
+.red {
+    background-color: rgb(29, 93, 233);
+    padding: 4%;
+}
+
+.blue {
+    background-color: rgb(196, 4, 4);
+    padding: 4%;
+}
+
+.whit {
+    background-color: whitesmoke;
+    color: black;
+}
